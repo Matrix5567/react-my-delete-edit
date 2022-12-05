@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "invalue": "optimus prime",
+      "id": 1
+    },
+    {
+      "invalue": "bumblebee",
+      "id": 2
+    },
+    {
+      "invalue": "ironhide",
+      "id": 3
+    }
+  ]
+}
